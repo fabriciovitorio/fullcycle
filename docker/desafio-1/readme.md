@@ -1,7 +1,7 @@
 # fullcycle-docker-desafio1
 Desafio Go
 
-# Passo a Passo
+# Steps
 
 Build:
 ```
